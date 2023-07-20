@@ -1,0 +1,6 @@
+.response {
+    display: block;
+    width: 76em;
+    height: 10em;
+    overflow: scroll;
+}
