@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debouncing-and-throttling-demo/static/css/main.97849e4d.css",
+    "main.js": "/debouncing-and-throttling-demo/static/js/main.58779bed.js",
+    "static/js/787.8ddba090.chunk.js": "/debouncing-and-throttling-demo/static/js/787.8ddba090.chunk.js",
+    "index.html": "/debouncing-and-throttling-demo/index.html",
+    "main.97849e4d.css.map": "/debouncing-and-throttling-demo/static/css/main.97849e4d.css.map",
+    "main.58779bed.js.map": "/debouncing-and-throttling-demo/static/js/main.58779bed.js.map",
+    "787.8ddba090.chunk.js.map": "/debouncing-and-throttling-demo/static/js/787.8ddba090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97849e4d.css",
+    "static/js/main.58779bed.js"
+  ]
+}
